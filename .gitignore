@@ -38,6 +38,9 @@ env/
 test_prompt.md
 step.md
 project.md
+test_fixes.py
+test_planner.py
+test_react.py
 *.swp
 *.swo
 *~
